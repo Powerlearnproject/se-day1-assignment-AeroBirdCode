@@ -69,23 +69,23 @@ Engineers can manage their time, employ debugging tools, and enhance communicati
 
 References used ---> Below are complete references used while researching for the questions above. 
 
-IBM Training. "Software Engineering Basics for Everyone." 
+- IBM Training. "Software Engineering Basics for Everyone." 
 
-Atlassian. "Types of Software Testing." 
+- Atlassian. "Types of Software Testing." 
 
-Coursera. "Introduction to Software Engineering." 
+- Coursera. "Introduction to Software Engineering." 
 
-IBM. "Overview of Software Development." IBM. 
+- IBM. "Overview of Software Development." IBM. 
 
-Atlassian. "Software Development Methodologies." 
+- Atlassian. "Software Development Methodologies." 
 
-Indeed. "Roles in Software Development."
+- Indeed. "Roles in Software Development."
 
-GitHub. "Version Control with Git."
+- GitHub. "Version Control with Git."
 
-TechTarget. "Challenges in Software Development."
+- TechTarget. "Challenges in Software Development."
 
-OpenAI. "Prompt Engineering."
+- OpenAI. "Prompt Engineering."
 
 
 
