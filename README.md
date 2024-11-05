@@ -82,7 +82,7 @@ Atlassian. "Software Development Methodologies."
 
 Indeed. "Roles in Software Development."
 
-GitHub. "Version Control with Git." https://github.com.
+GitHub. "Version Control with Git."
 
 TechTarget. "Challenges in Software Development."
 
